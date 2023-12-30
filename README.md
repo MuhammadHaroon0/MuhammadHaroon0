@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20I%20am%20Haroon&fontSize=90)
+![Hi! I am Haroon](https://github.com/MuhammadHaroon0/MuhammadHaroon0/assets/110344816/b89b00a4-5240-4b69-bfd5-f5395b95cf46)
 <hr/>
 
  ## Embark on a journey through the intricate tapestry of my coding world. With a palette of MERN stack mastery, C++ ingenuity, and Python finesse, I'm here to showcase the elegant fusion of art and logic. 
  
 <hr/>
 
-<img src="https://github.com/muhammadharoon9802/muhammadharoon9802/assets/110344816/25c0ab41-3691-473c-9c5a-c73398433493" data-canonical-src="https://github.com/muhammadharoon9802/muhammadharoon9802/assets/110344816/25c0ab41-3691-473c-9c5a-c73398433493" width="400" height="400" align="right"/>
+<img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM5NTMwNDksIm5iZiI6MTcwMzk1Mjc0OSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMwVDE2MTIyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2NmU1YTg3YWI1NDkwZDUwM2FjMjJhN2U2NWI2MzQ2OTc1MzgzMTM0ODczOTE2NWFjNzI5ODc0MmEyNzg2ZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Ok2nd4H1x1tP0souLKrt73otnRIZlykam02egBjlX5w" data-canonical-src width="400" height="400" align="right"/>
 <br/>
 <br/>
 <br/>

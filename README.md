@@ -1,6 +1,8 @@
 <br/>
 
-![Hi! I am Haroon](https://github.com/MuhammadHaroon0/MuhammadHaroon0/assets/110344816/b89b00a4-5240-4b69-bfd5-f5395b95cf46)
+![Hi! I am Haroon](https://github.com/MuhammadHaroon0/MuhammadHaroon0/assets/110344816/d00a7f4a-794d-40c2-99d7-4d6ca11c31c3)
+
+
 <hr/>
 
  ## Embark on a journey through the intricate tapestry of my coding world. With a palette of MERN stack mastery, C++ ingenuity, and Python finesse, I'm here to showcase the elegant fusion of art and logic. 

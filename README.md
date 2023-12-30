@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20I%am%Haroon&fontSize=90)
 <hr/>
 
  ## Embark on a journey through the intricate tapestry of my coding world. With a palette of MERN stack mastery, C++ ingenuity, and Python finesse, I'm here to showcase the elegant fusion of art and logic. 

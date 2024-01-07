@@ -8,12 +8,11 @@
  ## Embark on a journey through the intricate tapestry of my coding world. With a palette of MERN stack mastery, C++ ingenuity, and Python finesse, I'm here to showcase the elegant fusion of art and logic. 
  
 <hr/>
-<br/>
 
-<br/>
+
   <img align="right" width="400px"  src="https://github.com/MuhammadHaroon0/MuhammadHaroon0/assets/110344816/a1e00159-9841-4517-8542-120118644cec" alt="adam-pw" />
-
-
+<br/>
+<br/>
 <br/>
 <h3>:sunglasses: About Me</h3>
 I am a results-driven and forward-thinking computer scientist with certifications  in machine learning and Python. My passion lies in unraveling uncomplicated and effective solutions to intricate  challenges.I excel in robust analysis, creative issue resolution, and the tenacity to see projects through from inception to fruition.
